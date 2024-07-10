@@ -8,7 +8,7 @@ If these concepts seem a little fuzzy, consider refreshing your memory with an 
 It’s also a good idea to create an Entity-Relationship (E-R) diagram and a schema to start implementing these fields within a database before trying to normalize it.
 
 ## Entity-Relationship Diagram:
-**Refer to Diagram**
+**Refer to Diagram:** /bloodblank_ERD_diagram.png
 
 ## Information needed from applicant:
 - Name
